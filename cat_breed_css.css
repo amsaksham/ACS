@@ -28,12 +28,12 @@ figcaption
 }
 body
 {
-    background-color: blue;
+    background-color: purple;
 }  
 .cats a.Active, .dogs a.Active
 {
     background-color:#d96098;
-    color: black;
+    color: yellow;
 }
 .img a{
     color: black;
